@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Victorma/Victorma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Hi, I'm Victorma but you can also call me Velfyr 
+I am an enthusiast videogame developer a serious game researcher at the @e-ucm group, and a collaborator of @Narratech 💻.
+
+#### Some stats about what you can find here!
+
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=victorma&show_icons=true&title_color=FF0000&text_color=FF0000&bg_color=000000&hide_border=true&icon_color=AA0000&hide_title=true&count_private=true" />
+
+  <td align="center" style="padding=0;width=70%;">
+      <img align="center" style="padding=0;" src="https://github-readme-stats.quantumlytangled.vercel.app/api/top-langs/?username=victorma&layout=compact&show_icons=true&title_color=FF0000&text_color=FF0000&bg_color=000000&hide_border=true&icon_color=AA0000&count_private=true" />
+    </td>
+
+
+  </tr>
+</table>
+
+<img src="https://komarev.com/ghpvc/?username=Victorma" alt="Victorma" />
