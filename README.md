@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## Hi, I'm Victorma but you can also call me Velfyr 
 I am an enthusiast videogame developer a serious game researcher in the [@e-ucm](https://github.com/e-ucm/) e-Learning group, and a collaborator to [@Narratech](https://github.com/Narratech/) 💻.
 
-#### Some stats about what you can find here!
+#### Colors and fun stuff starts bellow
 
 <table>
   <tr>
